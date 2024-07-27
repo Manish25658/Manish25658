@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Manish
-- 👀 I’m interested in Full Stack Development,HTML,Css,JavaScript,React,SQL
+- 👀 I’m React developer having knowledge on Html,Css,Js and React
 - 🌱 I’m currently learning Full Stack Development
 - 💞️ I’m looking to collaborate on Frontend Projects
 - 📫 How to reach me Email:manishjmanish78@gmail.com
